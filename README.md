@@ -1,3 +1,5 @@
+### NAME: DEVADARSHAN A S
+### REG NO: 212222110007
 # Monitoring soil moisture value in Thing speak cloud and Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
